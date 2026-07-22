@@ -1,0 +1,11 @@
+{
+  "name": "@presence-resonance/api",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "echo \"no build configured yet\"",
+    "dev": "echo \"no dev server configured yet\"",
+    "lint": "echo \"no lint configured yet\"",
+    "test": "echo \"no tests configured yet\""
+  }
+}
