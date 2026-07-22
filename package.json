@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.1.0",
   "description": "Genealogy and family-history platform",
+  "author": "Joseph Michael Rounsaville",
+  "license": "SEE LICENSE IN LICENSE.md",
   "packageManager": "pnpm@9.0.0",
   "engines": {
     "node": ">=20"
