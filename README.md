@@ -2,6 +2,10 @@
 
 A genealogy and family-history platform that reconstructs family trees from source records (GEDCOM and beyond), maps them across time and geography, and surfaces the connections and patterns — the "resonance" — that run through a family's history.
 
+**Creator & Proprietary Owner:** Joseph Michael Rounsaville
+
+This is proprietary software. All rights are reserved by the Owner — see [OWNERSHIP.md](./OWNERSHIP.md) for the statement of creatorship and [LICENSE.md](./LICENSE.md) for license terms.
+
 ## Project structure
 
 ```
